@@ -1,0 +1,3 @@
+GET http://localhost:9000/examples?page=0&size=5&sort=name&direction=asc
+x-user-id: 12345
+Content-Type: application/json
